@@ -1,0 +1,1 @@
+print("esctructura de datos")
