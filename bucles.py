@@ -41,3 +41,4 @@ candidato1 = {
 }
 
 print(evaluar_candidato(candidato1))
+print("esta es la siguiente version")
